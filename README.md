@@ -8,7 +8,7 @@ I am an undergraduate Informatics student at Institut Teknologi Sepuluh Nopember
 * **I am interested in Web Development and Databases**
 - 🌱 I’m currently learning ...
   - Golang
-  - Javascript
+  - PHP
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside of tech, 📖 I love to watch anime, 🏀 do sports, 🎵 listen to music, and 🤿 snorkeling.
